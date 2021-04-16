@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Remoguima/404_page/blob/main/404_screenshot.PNG?raw=true)
+![screenshot](https://github.com/Remoguima/404-error/blob/main/404_screenshot.PNG?raw=true)
 
 This is my 404 error page for the devchallenges.io
 
