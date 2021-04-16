@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://remoguima.github.io/404_page/">
+    <a href="https://remoguima.github.io/404-error/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Remoguima/404_page">
+    <a href="https://github.com/Remoguima/404-error">
       Solution
     </a>
     <span> | </span>
